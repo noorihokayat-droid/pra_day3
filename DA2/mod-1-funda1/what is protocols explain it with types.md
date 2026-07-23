@@ -8,7 +8,7 @@ A **protocol** is a set of rules that defines how devices, applications, or peop
 
 These protocols control the transfer of data between devices.
 
-- **TCP (Transmission Control Protocol):** Delivers data reliably and in the correct order.
+- **TCP (Transmission Control Protocol):** Delivers data reliably and in the correct order..
 - **UDP (User Datagram Protocol):** Transfers data quickly without guaranteeing delivery; it is commonly used for video calls, streaming, and online games.
 - **IP (Internet Protocol):** Identifies devices and routes data packets to their destinations.
 
